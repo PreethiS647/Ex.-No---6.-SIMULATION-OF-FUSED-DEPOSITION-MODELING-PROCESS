@@ -16,14 +16,23 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![image](https://github.com/PreethiS647/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147313372/f624fddd-8178-4578-8351-5329dd36159c)
+![image](https://github.com/PreethiS647/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147313372/49b5945a-f86b-4f61-9565-2143844e0335)
+![image](https://github.com/PreethiS647/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147313372/75bcc9f8-81fc-4feb-87b2-e4ab1e51a1d9)
+![image](https://github.com/PreethiS647/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147313372/8e8c2afc-1273-4d11-bee3-a380c968ac32)
+![image](https://github.com/PreethiS647/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147313372/37f63b6a-587d-4f9f-abdf-5f28b9dea5d7)
+![image](https://github.com/PreethiS647/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/147313372/ea838e24-f651-4fee-8e5d-47c382045fae)
+
+
+
+
+
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Preethi S
+### Register Number:23008250
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
